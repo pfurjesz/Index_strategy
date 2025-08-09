@@ -1,7 +1,8 @@
 # Deep Index Strategy — Summary
 
 This project develops a deep learning-based feature extraction and prediction pipeline for market data, focusing on the VIX and SP500 returns.  
-We combine preprocessing, AutoEncoder feature compression, and sequence models (CNN, RNN, GRU, LSTM) to generate predictive signals.
+I combine preprocessing, AutoEncoder feature compression, and sequence models (CNN, RNN, GRU, LSTM) to generate predictive signals.
+
 
 ---
 
